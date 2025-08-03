@@ -1,0 +1,18 @@
+LeetCode Profile Summary for shaMayank
+==================================================
+
+Generated: 2025-08-02 18:28:46
+
+STATISTICS
+--------------------
+Total Submissions: 120
+Accepted: 100
+Problems Attempted: 65
+Problems Solved: 20
+Acceptance Rate: 83.3%
+
+LANGUAGES
+--------------------
+cpp: 86 (71.7%)
+mysql: 29 (24.2%)
+javascript: 5 (4.2%)

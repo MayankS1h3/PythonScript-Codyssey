@@ -1,0 +1,201 @@
+title,titleSlug,lang,statusDisplay,timestamp,source,runtime,memory
+Minimum Path Sum,minimum-path-sum,cpp,Accepted,2025-08-01T23:52:25,graphql,0 ms,15.4 MB
+Minimum Path Sum,,cpp,,2025-08-01T23:52:25,rest,0 ms,15.4 MB
+Longest Common Prefix,longest-common-prefix,cpp,Accepted,2025-07-31T23:42:22,graphql,0 ms,12 MB
+Longest Common Prefix,,cpp,,2025-07-31T23:42:22,rest,0 ms,12 MB
+Trapping Rain Water,trapping-rain-water,cpp,Accepted,2025-07-31T01:17:07,graphql,4 ms,27.2 MB
+Trapping Rain Water,,cpp,,2025-07-31T01:17:07,rest,4 ms,27.2 MB
+Invert Binary Tree,invert-binary-tree,cpp,Accepted,2025-07-30T13:28:24,graphql,0 ms,12.5 MB
+Invert Binary Tree,,cpp,,2025-07-30T13:28:24,rest,0 ms,12.5 MB
+Path Sum,path-sum,cpp,Accepted,2025-07-30T11:37:59,graphql,0 ms,21.6 MB
+Path Sum,,cpp,,2025-07-30T11:37:59,rest,0 ms,21.6 MB
+Path Sum,,cpp,,2025-07-30T11:22:05,rest,1 ms,21.6 MB
+Binary Tree Level Order Traversal,binary-tree-level-order-traversal,cpp,Accepted,2025-07-30T04:36:24,graphql,0 ms,17.2 MB
+Binary Tree Level Order Traversal,,cpp,,2025-07-30T04:36:24,rest,0 ms,17.2 MB
+Minimum Depth of Binary Tree,minimum-depth-of-binary-tree,cpp,Accepted,2025-07-30T04:20:05,graphql,0 ms,146.7 MB
+Minimum Depth of Binary Tree,,cpp,,2025-07-30T04:20:05,rest,0 ms,146.7 MB
+Average of Levels in Binary Tree,average-of-levels-in-binary-tree,cpp,Accepted,2025-07-30T03:51:26,graphql,0 ms,23.9 MB
+Average of Levels in Binary Tree,,cpp,,2025-07-30T03:51:26,rest,0 ms,23.9 MB
+Single Number,single-number,cpp,Accepted,2025-07-30T02:41:47,graphql,0 ms,20.6 MB
+Single Number,,cpp,,2025-07-30T02:41:47,rest,0 ms,20.6 MB
+Minimum Size Subarray Sum,minimum-size-subarray-sum,cpp,Accepted,2025-07-30T02:35:17,graphql,0 ms,32 MB
+Minimum Size Subarray Sum,,cpp,,2025-07-30T02:35:17,rest,0 ms,32 MB
+Minimum Size Subarray Sum,,cpp,,2025-07-30T02:06:29,rest,N/A,N/A
+Contains Duplicate II,contains-duplicate-ii,cpp,Accepted,2025-07-30T01:36:24,graphql,77 ms,98.8 MB
+Contains Duplicate II,,cpp,,2025-07-30T01:36:24,rest,77 ms,98.8 MB
+Squares of a Sorted Array,squares-of-a-sorted-array,cpp,Accepted,2025-07-30T00:38:24,graphql,5 ms,31.3 MB
+Squares of a Sorted Array,,cpp,,2025-07-30T00:38:24,rest,5 ms,31.3 MB
+Squares of a Sorted Array,,cpp,,2025-07-30T00:38:05,rest,11 ms,31.1 MB
+Number of Islands,number-of-islands,cpp,Accepted,2025-07-29T23:03:20,graphql,29 ms,24.5 MB
+Number of Islands,,cpp,,2025-07-29T23:03:20,rest,29 ms,24.5 MB
+How Many Numbers Are Smaller Than the Current Number,how-many-numbers-are-smaller-than-the-current-number,cpp,Accepted,2025-07-29T22:23:03,graphql,4 ms,14.7 MB
+How Many Numbers Are Smaller Than the Current Number,,cpp,,2025-07-29T22:23:03,rest,4 ms,14.7 MB
+Two Sum,two-sum,cpp,Accepted,2025-07-29T20:07:41,graphql,1 ms,14.8 MB
+Two Sum,,cpp,,2025-07-29T20:07:41,rest,1 ms,14.8 MB
+Two Sum,,cpp,,2025-07-29T19:50:29,rest,3 ms,14.6 MB
+Find All Numbers Disappeared in an Array,find-all-numbers-disappeared-in-an-array,cpp,Accepted,2025-07-29T18:35:21,graphql,91 ms,66.1 MB
+Find All Numbers Disappeared in an Array,,cpp,,2025-07-29T18:35:21,rest,91 ms,66.1 MB
+Find All Numbers Disappeared in an Array,,cpp,,2025-07-29T18:35:12,rest,84 ms,66.1 MB
+Find All Numbers Disappeared in an Array,,cpp,,2025-07-29T18:27:05,rest,15 ms,52.9 MB
+Find All Numbers Disappeared in an Array,,cpp,,2025-07-29T18:26:58,rest,16 ms,52.9 MB
+Find All Numbers Disappeared in an Array,,cpp,,2025-07-29T18:26:31,rest,15 ms,53 MB
+Missing Number,missing-number,cpp,Accepted,2025-07-29T17:58:55,graphql,0 ms,21.8 MB
+Missing Number,,cpp,,2025-07-29T17:58:55,rest,0 ms,21.8 MB
+Permutations,permutations,cpp,Accepted,2025-07-28T23:41:30,graphql,0 ms,10.4 MB
+Permutations,,cpp,,2025-07-28T23:41:30,rest,0 ms,10.4 MB
+Print in Order,print-in-order,cpp,Accepted,2025-07-27T23:49:26,graphql,17 ms,9.6 MB
+Print in Order,,cpp,,2025-07-27T23:49:26,rest,17 ms,9.6 MB
+Symmetric Tree,symmetric-tree,cpp,Accepted,2025-07-24T23:54:49,graphql,0 ms,18.4 MB
+Symmetric Tree,,cpp,,2025-07-24T23:54:49,rest,0 ms,18.4 MB
+Validate Binary Search Tree,,cpp,,2025-07-24T02:58:58,rest,0 ms,21.9 MB
+Validate Binary Search Tree,,cpp,,2025-07-24T01:05:57,rest,N/A,N/A
+Validate Binary Search Tree,,cpp,,2025-07-24T01:04:13,rest,N/A,N/A
+Maximum Depth of Binary Tree,,cpp,,2025-07-23T22:52:07,rest,0 ms,18.9 MB
+Intersection of Two Arrays,,cpp,,2025-07-23T05:06:55,rest,3 ms,14.3 MB
+Single Number,,cpp,,2025-07-23T04:54:26,rest,0 ms,20.5 MB
+Single Number,,cpp,,2025-07-23T04:54:18,rest,2 ms,20.5 MB
+Contains Duplicate,,cpp,,2025-07-23T04:45:14,rest,55 ms,90.7 MB
+Contains Duplicate,,cpp,,2025-07-23T04:42:21,rest,N/A,N/A
+Contains Duplicate,,cpp,,2025-07-23T04:37:30,rest,106 ms,92.4 MB
+Rotate Array,,cpp,,2025-07-23T04:31:31,rest,0 ms,29.6 MB
+Rotate Array,,cpp,,2025-07-23T04:07:53,rest,N/A,N/A
+Remove Duplicates from Sorted Array,,cpp,,2025-07-23T03:57:26,rest,0 ms,22.6 MB
+Move Zeroes,,cpp,,2025-07-23T03:48:48,rest,0 ms,24 MB
+String to Integer (atoi),,cpp,,2025-07-22T23:51:37,rest,0 ms,9.2 MB
+Intersection of Two Arrays II,,cpp,,2025-07-21T23:22:54,rest,1 ms,15 MB
+Biggest Single Number,,mysql,,2025-07-20T16:53:24,rest,412 ms,0.0B
+Find Followers Count,,mysql,,2025-07-20T16:48:44,rest,479 ms,0.0B
+Classes With at Least 5 Students,,mysql,,2025-07-20T16:46:10,rest,328 ms,0.0B
+Number of Unique Subjects Taught by Each Teacher,,mysql,,2025-07-20T12:31:55,rest,548 ms,0.0B
+Percentage of Users Attended a Contest,,mysql,,2025-07-20T12:18:04,rest,938 ms,0.0B
+Average Selling Price,,mysql,,2025-07-20T10:50:03,rest,973 ms,0.0B
+Average Selling Price,,mysql,,2025-07-20T10:31:17,rest,N/A,N/A
+Average Selling Price,,mysql,,2025-07-20T10:24:03,rest,N/A,N/A
+Project Employees I,,mysql,,2025-07-20T01:12:03,rest,570 ms,0.0B
+Project Employees I,,mysql,,2025-07-20T01:11:53,rest,N/A,N/A
+Project Employees I,,mysql,,2025-07-20T01:10:25,rest,N/A,N/A
+Not Boring Movies,,mysql,,2025-07-20T01:03:45,rest,266 ms,0.0B
+Not Boring Movies,,mysql,,2025-07-20T01:03:39,rest,N/A,N/A
+Managers with at Least 5 Direct Reports,,mysql,,2025-07-20T00:56:57,rest,N/A,N/A
+Managers with at Least 5 Direct Reports,,mysql,,2025-07-20T00:56:38,rest,387 ms,0.0B
+Managers with at Least 5 Direct Reports,,mysql,,2025-07-20T00:39:28,rest,389 ms,0.0B
+Students and Examinations,,mysql,,2025-07-19T22:50:32,rest,N/A,N/A
+Students and Examinations,,mysql,,2025-07-19T22:50:24,rest,N/A,N/A
+Students and Examinations,,mysql,,2025-07-19T22:50:10,rest,2107 ms,0.0B
+Students and Examinations,,mysql,,2025-07-19T22:50:04,rest,N/A,N/A
+Students and Examinations,,mysql,,2025-07-19T22:48:47,rest,1452 ms,0.0B
+Students and Examinations,,mysql,,2025-07-19T22:47:24,rest,N/A,N/A
+Students and Examinations,,mysql,,2025-07-19T22:47:17,rest,N/A,N/A
+Employee Bonus,,mysql,,2025-07-18T13:44:27,rest,971 ms,0.0B
+Rising Temperature,,mysql,,2025-07-18T13:32:36,rest,N/A,N/A
+Rising Temperature,,mysql,,2025-07-18T13:31:42,rest,N/A,N/A
+Customer Who Visited but Did Not Make Any Transactions,,mysql,,2025-07-18T13:19:01,rest,1284 ms,0.0B
+Customer Who Visited but Did Not Make Any Transactions,,mysql,,2025-07-18T13:08:25,rest,1399 ms,0.0B
+Product Sales Analysis I,,mysql,,2025-07-18T12:48:42,rest,1179 ms,0.0B
+Same Tree,,cpp,,2025-07-17T23:28:13,rest,0 ms,12.9 MB
+Zigzag Conversion,,cpp,,2025-07-14T23:14:31,rest,3 ms,14.3 MB
+Binary Tree Level Order Traversal,,cpp,,2025-07-13T23:21:05,rest,0 ms,17 MB
+Ugly Number,,cpp,,2025-07-12T23:16:34,rest,3 ms,7.7 MB
+Pascal's Triangle,,cpp,,2025-07-11T23:12:52,rest,0 ms,9.7 MB
+Roman to Integer,,cpp,,2025-07-10T23:36:22,rest,15 ms,13.4 MB
+Plus One,,cpp,,2025-07-07T23:40:15,rest,0 ms,11.6 MB
+Binary Tree Inorder Traversal,,cpp,,2025-07-06T23:59:10,rest,0 ms,10.8 MB
+Counter II,,javascript,,2025-07-04T16:33:02,rest,50 ms,56.3 MB
+Counter,,javascript,,2025-07-04T16:28:45,rest,29 ms,55 MB
+To Be Or Not To Be,,javascript,,2025-07-04T16:27:03,rest,37 ms,53.4 MB
+To Be Or Not To Be,,javascript,,2025-07-04T16:26:29,rest,40 ms,53.2 MB
+Create Hello World Function,,javascript,,2025-07-04T16:16:34,rest,48 ms,52.8 MB
+Valid Palindrome,,cpp,,2025-07-03T23:34:43,rest,3 ms,9.8 MB
+Merge Sorted Array,,cpp,,2025-07-02T23:52:01,rest,0 ms,12.3 MB
+Merge Sorted Array,,cpp,,2025-07-02T23:51:17,rest,N/A,N/A
+Length of Last Word,,cpp,,2025-06-30T23:39:57,rest,0 ms,8.8 MB
+Spiral Matrix,,cpp,,2025-06-29T23:55:37,rest,0 ms,9.3 MB
+Word Search,,cpp,,2025-06-28T23:38:17,rest,192 ms,10.6 MB
+Find the Index of the First Occurrence in a String,,cpp,,2025-06-27T23:43:24,rest,0 ms,8.8 MB
+Find the Index of the First Occurrence in a String,,cpp,,2025-06-27T23:42:42,rest,N/A,N/A
+Integer to Roman,,cpp,,2025-06-26T23:34:27,rest,10 ms,12.7 MB
+Longest Palindromic Substring,,cpp,,2025-06-25T23:25:25,rest,0 ms,9.2 MB
+Trapping Rain Water,,cpp,,2025-06-23T23:50:39,rest,0 ms,25.8 MB
+Min Stack,,cpp,,2025-06-22T23:41:43,rest,3 ms,23.5 MB
+Find Peak Element,,cpp,,2025-06-21T23:49:55,rest,0 ms,12.5 MB
+Sort List,,cpp,,2025-06-19T13:25:11,rest,20 ms,57.1 MB
+Sort List,,cpp,,2025-06-19T13:24:20,rest,N/A,N/A
+Sort List,,cpp,,2025-06-19T13:23:01,rest,N/A,N/A
+Sort List,,cpp,,2025-06-19T13:19:57,rest,N/A,N/A
+Sort List,,cpp,,2025-06-19T13:18:03,rest,N/A,N/A
+Sort List,,cpp,,2025-06-19T12:24:41,rest,49 ms,75.9 MB
+Sort List,,cpp,,2025-06-19T12:24:29,rest,57 ms,75.6 MB
+Merge Two Sorted Lists,,cpp,,2025-06-19T10:34:16,rest,0 ms,19.6 MB
+Intersection of Two Linked Lists,,cpp,,2025-06-18T18:04:05,rest,33 ms,18.6 MB
+Intersection of Two Linked Lists,,cpp,,2025-06-18T17:43:35,rest,34 ms,18.5 MB
+Add Two Numbers,,cpp,,2025-06-18T07:18:00,rest,0 ms,77.2 MB
+Add Two Numbers,,cpp,,2025-06-18T07:17:53,rest,3 ms,77.1 MB
+Add Two Numbers,,cpp,,2025-06-18T07:10:46,rest,1 ms,77.1 MB
+Delete the Middle Node of a Linked List,,cpp,,2025-06-18T06:26:35,rest,0 ms,312.1 MB
+Delete the Middle Node of a Linked List,,cpp,,2025-06-18T06:23:41,rest,N/A,N/A
+Delete the Middle Node of a Linked List,,cpp,,2025-06-18T06:05:35,rest,0 ms,312.2 MB
+Remove Nth Node From End of List,,cpp,,2025-06-18T05:46:55,rest,0 ms,14.8 MB
+Remove Nth Node From End of List,,cpp,,2025-06-18T05:46:45,rest,2 ms,14.9 MB
+Remove Nth Node From End of List,,cpp,,2025-06-18T05:24:40,rest,0 ms,15 MB
+Remove Nth Node From End of List,,cpp,,2025-06-18T05:18:10,rest,N/A,N/A
+Odd Even Linked List,,cpp,,2025-06-18T04:58:50,rest,0 ms,15.6 MB
+Palindrome Linked List,,cpp,,2025-06-18T04:02:00,rest,0 ms,118.8 MB
+Palindrome Linked List,,cpp,,2025-06-18T03:41:09,rest,16 ms,127.3 MB
+Linked List Cycle II,,cpp,,2025-06-18T03:35:32,rest,6 ms,11.2 MB
+Linked List Cycle,,cpp,,2025-06-18T03:12:40,rest,8 ms,11.8 MB
+Linked List Cycle,,cpp,,2025-06-18T03:12:32,rest,12 ms,11.7 MB
+Reverse Linked List,,cpp,,2025-06-18T03:10:02,rest,0 ms,13.4 MB
+Middle of the Linked List,,cpp,,2025-06-18T02:31:12,rest,0 ms,10 MB
+Delete Node in a Linked List,,cpp,,2025-06-18T02:25:06,rest,10 ms,12.4 MB
+Delete Node in a Linked List,,cpp,,2025-06-18T02:24:07,rest,10 ms,12.4 MB
+Delete Node in a Linked List,,cpp,,2025-06-18T02:23:23,rest,10 ms,12.3 MB
+Delete Node in a Linked List,,cpp,,2025-06-18T02:16:03,rest,10 ms,12.3 MB
+Delete Node in a Linked List,,cpp,,2025-06-18T02:15:53,rest,10 ms,12.3 MB
+Delete Node in a Linked List,,cpp,,2025-06-18T02:15:46,rest,10 ms,12.4 MB
+Delete Node in a Linked List,,cpp,,2025-06-18T02:15:36,rest,5 ms,12.4 MB
+Remove Element,,cpp,,2025-06-18T01:20:46,rest,0 ms,11.7 MB
+Remove Element,,cpp,,2025-06-18T01:19:25,rest,0 ms,11.7 MB
+Remove Element,,cpp,,2025-06-18T01:01:30,rest,N/A,N/A
+Add Binary,,cpp,,2025-06-17T23:01:10,rest,0 ms,10.2 MB
+Add Binary,,cpp,,2025-06-17T22:59:24,rest,3 ms,10 MB
+Add Binary,,cpp,,2025-06-17T22:55:27,rest,3 ms,12.3 MB
+Sum of Subarray Ranges,,cpp,,2025-06-17T04:44:23,rest,20 ms,13.9 MB
+Remove K Digits,,cpp,,2025-06-17T04:32:24,rest,3 ms,11 MB
+Remove K Digits,,cpp,,2025-06-17T04:32:12,rest,4 ms,11 MB
+Remove K Digits,,cpp,,2025-06-17T04:06:16,rest,15 ms,14.1 MB
+"Pow(x, n)",,cpp,,2025-06-17T03:03:20,rest,0 ms,8.4 MB
+"Pow(x, n)",,cpp,,2025-06-17T02:50:58,rest,N/A,N/A
+Asteroid Collision,,cpp,,2025-06-16T09:27:35,rest,0 ms,21.9 MB
+Asteroid Collision,,cpp,,2025-06-16T07:03:12,rest,3 ms,22.4 MB
+Asteroid Collision,,cpp,,2025-06-16T06:54:33,rest,N/A,N/A
+Asteroid Collision,,cpp,,2025-06-16T06:50:21,rest,N/A,N/A
+Asteroid Collision,,cpp,,2025-06-16T06:46:04,rest,N/A,N/A
+Asteroid Collision,,cpp,,2025-06-16T05:44:19,rest,N/A,N/A
+Asteroid Collision,,cpp,,2025-06-16T05:37:27,rest,N/A,N/A
+Sum of Subarray Minimums,,cpp,,2025-06-16T04:23:28,rest,27 ms,48.1 MB
+Sum of Subarray Minimums,,cpp,,2025-06-16T04:02:07,rest,N/A,N/A
+Sum of Subarray Minimums,,cpp,,2025-06-16T01:04:08,rest,N/A,N/A
+Sum of Subarray Minimums,,cpp,,2025-06-16T00:53:28,rest,N/A,N/A
+Next Greater Element II,,cpp,,2025-06-15T23:35:08,rest,3 ms,28.3 MB
+Implement Stack using Queues,,cpp,,2025-06-14T03:34:27,rest,0 ms,9.5 MB
+Implement Queue using Stacks,,cpp,,2025-06-14T03:15:20,rest,0 ms,9.7 MB
+Single Element in a Sorted Array,,cpp,,2025-06-13T19:18:14,rest,0 ms,26.1 MB
+Single Element in a Sorted Array,,cpp,,2025-06-13T15:41:19,rest,0 ms,26 MB
+Single Element in a Sorted Array,,cpp,,2025-06-13T15:39:12,rest,0 ms,26.2 MB
+Single Element in a Sorted Array,,cpp,,2025-06-13T15:36:33,rest,N/A,N/A
+Single Element in a Sorted Array,,cpp,,2025-06-13T15:34:08,rest,N/A,N/A
+Single Element in a Sorted Array,,cpp,,2025-06-13T15:33:22,rest,N/A,N/A
+Search in Rotated Sorted Array II,,cpp,,2025-06-13T03:11:34,rest,0 ms,17.8 MB
+Find Minimum in Rotated Sorted Array,,cpp,,2025-06-13T01:52:40,rest,0 ms,14.2 MB
+Search in Rotated Sorted Array II,,cpp,,2025-06-13T01:23:06,rest,N/A,N/A
+Search in Rotated Sorted Array,,cpp,,2025-06-13T01:06:26,rest,0 ms,15.3 MB
+Search in Rotated Sorted Array,,cpp,,2025-06-13T01:02:36,rest,N/A,N/A
+Search in Rotated Sorted Array,,cpp,,2025-06-13T00:51:02,rest,N/A,N/A
+Search Insert Position,,cpp,,2025-06-12T18:32:39,rest,0 ms,13.7 MB
+Search Insert Position,,cpp,,2025-06-12T18:31:24,rest,N/A,N/A
+Split a String in Balanced Strings,,cpp,,2025-05-26T12:03:12,rest,0 ms,8.4 MB
+Sum of Left Leaves,,cpp,,2025-05-26T11:50:08,rest,0 ms,16 MB
+Sum of Left Leaves,,cpp,,2025-05-26T11:48:12,rest,0 ms,16.1 MB
+Sum of Left Leaves,,cpp,,2025-05-26T11:43:42,rest,N/A,N/A
+Delete Node in a BST,,cpp,,2025-05-24T23:44:49,rest,0 ms,34.2 MB
+Delete Node in a BST,,cpp,,2025-05-24T23:44:34,rest,N/A,N/A
