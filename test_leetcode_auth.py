@@ -7,9 +7,6 @@ import sys
 from collections import defaultdict
 
 
-
-
-
 class LeetCodeSubmissionFetcher:
     """Enhanced LeetCode submission fetcher with comprehensive data collection"""
     
